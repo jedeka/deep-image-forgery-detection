@@ -2,7 +2,7 @@
 
 An approach to detect image copy-move forgery using deep learning.
 
-These ImageNet32-pretrained models of these architectures below: 
+ImageNet32-pretrained models of these architectures below: 
 * VGGs (VGG16 & VGG19) <br />
 ![fig1](./img/vgg.jpg)
 * EfficientNet B0
